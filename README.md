@@ -1,3 +1,3 @@
 # kattisProblems
 
-Problems solved for course: https://www.umu.se/utbildning/kurser/programmering-for-effektiv-problemlosning/
+Problems solved for: https://open.kattis.com/
